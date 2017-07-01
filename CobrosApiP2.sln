@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobrosApiP2", "CobrosApiP2\CobrosApiP2.csproj", "{FD651372-BEBA-456F-826B-1025B91E3DA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{264722E8-838A-46E8-8828-38A031396AD5}"
+	ProjectSection(SolutionItems) = preProject
+		HtmlCobros.html = HtmlCobros.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD651372-BEBA-456F-826B-1025B91E3DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD651372-BEBA-456F-826B-1025B91E3DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD651372-BEBA-456F-826B-1025B91E3DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD651372-BEBA-456F-826B-1025B91E3DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
